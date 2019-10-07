@@ -1,0 +1,57 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  	<modelVersion>4.0.0</modelVersion>
+
+  	<groupId>io.github.mariazevedo88</groupId>
+  	<artifactId>hackerrank-challenges</artifactId>
+  	<version>0.0.1-SNAPSHOT</version>
+  	<packaging>jar</packaging>
+
+  	<name>hackerrank-challenges</name>
+  	<description>Project with exercises of Hackerrank site</description>
+  
+  	<developers>
+		<developer>
+			<name>Mariana Azevedo</name>
+			<email>mariana@bsi.ufla.br</email>
+			<timezone>UTC-03:00</timezone>
+		</developer>
+	</developers>
+
+  	<properties>
+    	<java.version>1.8</java.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		
+		<compiler.plugin.version>3.6.1</compiler.plugin.version>
+		<slf4j.version>1.7.28</slf4j.version>
+  	</properties>
+
+  	<dependencies>
+  		<dependency>
+    		<groupId>org.slf4j</groupId>
+    		<artifactId>slf4j-api</artifactId>
+    		<version>${slf4j.version}</version>	
+		</dependency>
+		<dependency>
+    		<groupId>org.slf4j</groupId>
+    		<artifactId>slf4j-jdk14</artifactId>
+    		<version>${slf4j.version}</version>
+		</dependency>
+  	</dependencies>
+  
+  	<build>
+	  	<finalName>hackerrank-challenges</finalName>
+	  	<plugins>
+	   		<plugin>
+	           	<groupId>org.apache.maven.plugins</groupId>
+	           	<artifactId>maven-compiler-plugin</artifactId>
+	           	<version>${compiler.plugin.version}</version>
+	          		<configuration>
+	               	<source>${java.version}</source>
+	               	<target>${java.version}</target>
+	           	</configuration>
+	       	</plugin>
+	   	</plugins>
+	</build>
+</project>
