@@ -1,4 +1,4 @@
-package io.github.mariazevedo88.hc.prepkit;
+package io.github.mariazevedo88.hc.prepkit.arrays;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
