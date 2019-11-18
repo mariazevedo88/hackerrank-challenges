@@ -1,4 +1,4 @@
-package io.github.mariazevedo88.hc.prepkit;
+package io.github.mariazevedo88.hc.prepkit.warmup;
 
 import java.util.HashSet;
 import java.util.Set;

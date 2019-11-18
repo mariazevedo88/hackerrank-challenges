@@ -1,5 +1,8 @@
 package io.github.mariazevedo88.hc.prepkit.arrays;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 /**
  * A left rotation operation on an array shifts each of the array's elements 1 unit to the left. For example, 
  * if 2 left rotations are performed on array [1,2,3,4,5], then the array would become [3,4,5,1,2].
@@ -50,24 +53,26 @@ package io.github.mariazevedo88.hc.prepkit.arrays;
  * @since 10/11/2019
  */
 public class LeftRotation {
+	
+	private static final Logger logger = LoggerFactory.getLogger(LeftRotation.class);
 
 	public static void main(String[] args) {
+		
 		int[] a = {1,2,3,4,5};
 		int[] rotLeft = rotLeft(a, 4);
 
 		for(int i : rotLeft) {
-			System.out.println(i);
+			logger.info(String.valueOf(i));
 		}
 	}
 	
 	 // Complete the rotLeft function below.
     static int[] rotLeft(int[] a, int d) {
 
-    	int size = a.length;
-    	int[] rotatedArray = new int[size];
-    	
     	int i = 0;
+    	int size = a.length;
     	int rotatedIndex = d;
+    	int[] rotatedArray = new int[size];
     	
     	while (rotatedIndex < size) {
     		rotatedArray[i] = a[rotatedIndex];
@@ -85,5 +90,4 @@ public class LeftRotation {
     	
     	return rotatedArray;
     }
-
 }

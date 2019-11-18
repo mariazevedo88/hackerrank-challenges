@@ -90,11 +90,11 @@ public class ArrayDS2D {
 	private static final Logger logger = LoggerFactory.getLogger(ArrayDS2D.class);
 	
 	public static void main(String[] args) {
-		int[][]arr = new int [][] {{1,1,1,0,0,0}, {0,1,0,0,0,0}, {1,1,1,0,0,0}, {0,0,2,4,4,0},{0,0,0,2,0,0},{0,0,1,2,4,0}};
+		int[][]arr = new int [][] {{1,1,1,0,0,0},{0,1,0,0,0,0},{1,1,1,0,0,0},{0,0,2,4,4,0},{0,0,0,2,0,0},{0,0,1,2,4,0}};
 		Integer result = hourglassSum(arr);
 		logger.info(result.toString());
 		
-		int[][]arr2 = new int [][] {{-9,-9,-9,1,1,1}, {0,-9,0,4,3,2}, {-9,-9,-9,1,2,3}, {0,0,8,6,6,0},{0,0,0,-2,0,0},{0,0,1,2,4,0}};
+		int[][]arr2 = new int [][] {{-9,-9,-9,1,1,1},{0,-9,0,4,3,2},{-9,-9,-9,1,2,3},{0,0,8,6,6,0},{0,0,0,-2,0,0},{0,0,1,2,4,0}};
 		result = hourglassSum(arr2);
 		logger.info(result.toString());
 	}
