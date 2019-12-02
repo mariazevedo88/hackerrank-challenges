@@ -95,7 +95,7 @@ A project of solved exercises from Hackerrank website in Java.
 
 <b>12. Linked Lists</b>
 
-* Insert a node at a specific position in a linked list
+* [Insert a node at a specific position in a linked list](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/linkedlist/NodeSpecificPosition.java)
 * Inserting a Node Into a Sorted Doubly Linked List
 * Reverse a doubly linked list
 * Find Merge Point of Two Lists
