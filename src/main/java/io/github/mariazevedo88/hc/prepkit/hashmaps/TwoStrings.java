@@ -24,8 +24,8 @@ import org.slf4j.LoggerFactory;
  * The first line contains a single integer p, the number of test cases.
  * The following p pairs of lines are as follows:
  * 
- * - The first line contains string .
- * - The second line contains string .
+ * - The first line contains string s1.
+ * - The second line contains string s2.
  * 
  * Constraints
  * 
