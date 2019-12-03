@@ -22,7 +22,7 @@ A project of solved exercises from Hackerrank website in Java.
 <b>3. Dictionaries and Hashmaps</b>
 
 * [Hash Tables: Ransom Note](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/hashmaps/RansomNote.java)
-* Two Strings
+* [Two Strings](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/hashmaps/TwoStrings.java)
 * Sherlock and Anagrams
 * Count Triplets
 * Frequency Queries
@@ -38,7 +38,7 @@ A project of solved exercises from Hackerrank website in Java.
 <b>5. String Manipulation</b>
 
 * [Strings: Making Anagrams](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/strings/MakingAnagrams.java)
-* Alternating Characters
+* [Alternating Characters](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/strings/AlternatingCharacters.java)
 * Sherlock and the Valid String
 * Special String Again
 * Common Child
