@@ -88,7 +88,7 @@ A project of solved exercises from Hackerrank website in Java.
 <b>11. Trees</b>
 
 * Tree: Height of a Binary Tree
-* Binary Search Tree: Lowest Common Ancestor
+* [Binary Search Tree: Lowest Common Ancestor](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/trees/LowestCommonAncestor.java)
 * Trees: Is This a Binary Search Tree?
 * Tree: Huffman Decoding
 * Balanced Forest
@@ -97,7 +97,7 @@ A project of solved exercises from Hackerrank website in Java.
 
 * [Insert a node at a specific position in a linked list](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/linkedlist/NodeSpecificPosition.java)
 * Inserting a Node Into a Sorted Doubly Linked List
-* Reverse a doubly linked list
+* [Reverse a doubly linked list](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/linkedlist/ReverseDoublyLinkedList.java)
 * Find Merge Point of Two Lists
 * Linked Lists: Detect a Cycle
 
