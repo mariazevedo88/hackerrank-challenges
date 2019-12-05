@@ -3,6 +3,8 @@ package io.github.mariazevedo88.hc.prepkit.linkedlist;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import io.github.mariazevedo88.hc.prepkit.linkedlist.model.DoublyLinkedListNode;
+
 /**
  * You're given the pointer to the head node of a doubly linked list. Reverse the order of the nodes in the list. 
  * The head node might be NULL to indicate that the list is empty. Change the next and prev pointers of all the 
@@ -63,9 +65,9 @@ public class ReverseDoublyLinkedList {
 	public static void main(String[] args) {
 
 		DoublyLinkedListNode head = new DoublyLinkedListNode(1);  
-	    head.next = new DoublyLinkedListNode(2);  
-	    head.next.next = new DoublyLinkedListNode(3);
-	    head.next.next.next = new DoublyLinkedListNode(4);
+	    head.setNext(new DoublyLinkedListNode(2));  
+	    head.getNext().setNext(new DoublyLinkedListNode(3));
+	    head.getNext().getNext().setNext(new DoublyLinkedListNode(4));
 	    
 	    logger.info(String.valueOf(reverse(head)));
 	}
@@ -79,30 +81,16 @@ public class ReverseDoublyLinkedList {
     	DoublyLinkedListNode newHead = head;
     	
     	while (currentNode != null) {
-    		DoublyLinkedListNode prev = currentNode.prev;
-    		currentNode.prev = currentNode.next;
-    		currentNode.next = prev;
+    		DoublyLinkedListNode prev = currentNode.getPrev();
+    		currentNode.setPrev(currentNode.getNext());
+    		currentNode.setNext(prev);
     		newHead = currentNode;
     		
     		//Because we are reversing the list
-    		currentNode = currentNode.prev;
+    		currentNode = currentNode.getPrev();
 		}
     	
     	return newHead;
     }
 }
 
-class DoublyLinkedListNode {
-	int data;
-    DoublyLinkedListNode next;
-    DoublyLinkedListNode prev;
-    
-    public DoublyLinkedListNode(int data) {
-    	this.data = data;
-	}
-    
-    @Override
-    public String toString() {
-    	return String.valueOf(data);
-    }
-}

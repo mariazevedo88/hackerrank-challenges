@@ -31,7 +31,7 @@ A project of solved exercises from Hackerrank website in Java.
 
 * [Mark and Toys](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/MarkToys.java)
 * Sorting: Bubble Sort
-* Sorting: Comparator
+* [Sorting: Comparator](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/SortingComparator.java)
 * Fraudulent Activity Notifications
 * Merge sort: Counting Inversions
 
@@ -96,7 +96,7 @@ A project of solved exercises from Hackerrank website in Java.
 <b>12. Linked Lists</b>
 
 * [Insert a node at a specific position in a linked list](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/linkedlist/NodeSpecificPosition.java)
-* Inserting a Node Into a Sorted Doubly Linked List
+* [Inserting a Node Into a Sorted Doubly Linked List](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/linkedlist/InsertDoublyLinkedList.java)
 * [Reverse a doubly linked list](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/linkedlist/ReverseDoublyLinkedList.java)
 * Find Merge Point of Two Lists
 * Linked Lists: Detect a Cycle
