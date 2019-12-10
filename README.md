@@ -46,7 +46,7 @@ A project of solved exercises from Hackerrank website in Java.
 <b>6. Greedy Algorithms</b>
 
 * Minimum Absolute Difference in an Array
-* Luck Balance
+* [Luck Balance](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/greedy/LuckBalance.java)
 * Greedy Florist
 * Max Min
 * Reverse Shuffle Merge
@@ -98,8 +98,8 @@ A project of solved exercises from Hackerrank website in Java.
 * [Insert a node at a specific position in a linked list](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/linkedlist/NodeSpecificPosition.java)
 * [Inserting a Node Into a Sorted Doubly Linked List](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/linkedlist/InsertDoublyLinkedList.java)
 * [Reverse a doubly linked list](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/linkedlist/ReverseDoublyLinkedList.java)
-* Find Merge Point of Two Lists
-* Linked Lists: Detect a Cycle
+* [Find Merge Point of Two Lists](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/linkedlist/MergePointTwoLists.java)
+* [Linked Lists: Detect a Cycle](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/linkedlist/DetectCycle.java)
 
 <b>13. Recursion and Backtracking</b>
 
