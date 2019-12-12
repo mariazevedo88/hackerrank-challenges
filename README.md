@@ -110,7 +110,7 @@ A project of solved exercises from Hackerrank website in Java.
 
 <b>14. Miscellaneous</b>
 
-* Flipping bits
+* [Flipping bits](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/misc/FlippingBits.java)
 * Time Complexity: Primality
 * Friend Circle Queries
 * Maximum Xor
