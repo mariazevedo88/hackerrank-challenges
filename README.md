@@ -103,7 +103,7 @@ A project of solved exercises from Hackerrank website in Java.
 
 <b>13. Recursion and Backtracking</b>
 
-* Recursion: Fibonacci Numbers
+* [Recursion: Fibonacci Numbers](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/recursion/FibonacciNumbers.java)
 * Recursion: Davis' Staircase
 * Crossword Puzzle
 * Recursive Digit Sum
