@@ -30,7 +30,7 @@ A project of solved exercises from Hackerrank website in Java.
 <b>4. Sorting</b>
 
 * [Mark and Toys](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/MarkToys.java)
-* Sorting: Bubble Sort
+* [Sorting: Bubble Sort](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/BubbleSort.java)
 * [Sorting: Comparator](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/SortingComparator.java)
 * Fraudulent Activity Notifications
 * Merge sort: Counting Inversions
@@ -45,7 +45,7 @@ A project of solved exercises from Hackerrank website in Java.
 
 <b>6. Greedy Algorithms</b>
 
-* Minimum Absolute Difference in an Array
+* [Minimum Absolute Difference in an Array](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/greedy/MinimumAbsoluteDifference.java)
 * [Luck Balance](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/greedy/LuckBalance.java)
 * Greedy Florist
 * Max Min
