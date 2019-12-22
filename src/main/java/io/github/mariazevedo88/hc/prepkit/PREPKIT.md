@@ -1,4 +1,4 @@
-#Interview Preparation Kit
+# Interview Preparation Kit
 
 <b>1. Warm-up Challenges</b>
 
@@ -23,7 +23,7 @@
 * Count Triplets
 * Frequency Queries
 
-<b.4. Sorting</b>
+<b>4. Sorting</b>
 
 * [Mark and Toys](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/MarkToys.java)
 * [Sorting: Bubble Sort](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/BubbleSort.java)
