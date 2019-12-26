@@ -52,9 +52,9 @@ import org.slf4j.LoggerFactory;
  * @author Mariana
  * @since 10/11/2019
  */
-public class LeftRotation {
+public class ArraysLeftRotation {
 	
-	private static final Logger logger = LoggerFactory.getLogger(LeftRotation.class);
+	private static final Logger logger = LoggerFactory.getLogger(ArraysLeftRotation.class);
 
 	public static void main(String[] args) {
 		

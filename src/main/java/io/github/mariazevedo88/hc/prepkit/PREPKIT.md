@@ -10,10 +10,10 @@
 <b>2. Arrays</b>
 
 * [2D Array - DS](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/arrays/ArrayDS2D.java)
-* [Arrays: Left Rotation](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/arrays/LeftRotation.java)
+* [Arrays: Left Rotation](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/arrays/ArraysLeftRotation.java)
 * [New Year Chaos](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/arrays/NewYearChaos.java)
 * [Minimum Swaps 2](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/arrays/MinimumSwaps2.java)
-* Array Manipulation
+* [Array Manipulation](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/arrays/ArrayManipulation.java)
 
 <b>3. Dictionaries and Hashmap</b>
 
@@ -36,7 +36,7 @@
 * [Strings: Making Anagrams](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/strings/MakingAnagrams.java)
 * [Alternating Characters](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/strings/AlternatingCharacters.java)
 * Sherlock and the Valid String
-* Special String Again
+* [Special String Again](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/strings/SpecialStringAgain.java)
 * Common Child
 
 <b>6. Greedy Algorithms</b>
