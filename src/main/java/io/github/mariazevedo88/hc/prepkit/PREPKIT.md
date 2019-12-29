@@ -19,7 +19,7 @@
 
 * [Hash Tables: Ransom Note](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/hashmaps/RansomNote.java)
 * [Two Strings](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/hashmaps/TwoStrings.java)
-* Sherlock and Anagrams
+* [Sherlock and Anagrams](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/hashmaps/SherlockAnagrams.java)
 * Count Triplets
 * Frequency Queries
 
