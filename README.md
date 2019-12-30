@@ -6,8 +6,8 @@ A project of solved exercises from Hackerrank website in Java, Javascript, Ruby,
 
 ### Java Challenges
 
-1. [Interview Preparation Kit](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/PREPKIT.md)
-2. Problem Solving
+1. [Interview Preparation Kit](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/INDEX.md)
+2. [Problem Solving](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/problems/INDEX.md)
 
 ### SQL Challenges
 
