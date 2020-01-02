@@ -83,7 +83,7 @@
 
 <b>11. Trees</b>
 
-* Tree: Height of a Binary Tree
+* [Tree: Height of a Binary Tree](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/trees/HeightBinaryTree.java)
 * [Binary Search Tree: Lowest Common Ancestor](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/trees/LowestCommonAncestor.java)
 * Trees: Is This a Binary Search Tree?
 * Tree: Huffman Decoding
