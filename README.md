@@ -1,6 +1,6 @@
 # hackerrank-challenges
 
-A project of solved exercises from Hackerrank website in Java, Javascript, Ruby, Python, and SQL.
+A project of solved exercises from Hackerrank website in Java and SQL.
 
 ## Summary
 
