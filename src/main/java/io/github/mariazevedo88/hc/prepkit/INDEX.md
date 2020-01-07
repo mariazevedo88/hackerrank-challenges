@@ -44,7 +44,7 @@
 * [Minimum Absolute Difference in an Array](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/greedy/MinimumAbsoluteDifference.java)
 * [Luck Balance](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/greedy/LuckBalance.java)
 * Greedy Florist
-* Max Min
+* [Max Min](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/greedy/MaxMin.java)
 * Reverse Shuffle Merge
 
 <b>7. Search</b>
