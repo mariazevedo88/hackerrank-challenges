@@ -49,7 +49,7 @@
 
 <b>7. Search</b>
 
-* Hash Tables: Ice Cream Parlor
+* [Hash Tables: Ice Cream Parlor](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/IceCreamParlor.java)
 * Swap Nodes [Algo]
 * Pairs
 * Triple sum
