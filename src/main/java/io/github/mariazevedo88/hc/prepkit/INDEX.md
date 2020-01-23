@@ -28,7 +28,7 @@
 * [Mark and Toys](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/MarkToys.java)
 * [Sorting: Bubble Sort](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/BubbleSort.java)
 * [Sorting: Comparator](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/SortingComparator.java)
-* Fraudulent Activity Notifications
+* [Fraudulent Activity Notifications](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/FraudulentActivityNotifications.java)
 * Merge sort: Counting Inversions
 
 <b>5. String Manipulation</b>
