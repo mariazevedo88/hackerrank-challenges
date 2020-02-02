@@ -3,8 +3,6 @@ package io.github.mariazevedo88.hc.prepkit.misc;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import io.github.mariazevedo88.hc.prepkit.arrays.ArrayDS2D;
-
 /**
  * You are given an array arr of n elements. A list of integers, queries is given as an input, find the maximum 
  * value of queries[j] ^ each arr[i] for all 0 <= i < n, where ^ represents xor of two elements. Note that there 
