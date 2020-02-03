@@ -1,5 +1,8 @@
 package io.github.mariazevedo88.hc.prepkit.misc;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 /**
  * A prime is a natural number greater than 1 that has no positive divisors other than 1 and itself. Given p integers, 
  * determine the primality of each integer and print whether it is Prime or Not prime on a new line.
@@ -53,13 +56,14 @@ package io.github.mariazevedo88.hc.prepkit.misc;
  */
 public class TimeComplexityPrimality {
 	
+	private static final Logger logger = LoggerFactory.getLogger(TimeComplexityPrimality.class);
 	private static final String PRIME = "Prime";
 	private static final String NOT_PRIME = "Not prime";
 
 	public static void main(String[] args) {
-		System.out.println(primality(12));
-		System.out.println(primality(5));
-		System.out.println(primality(7));
+		logger.info(primality(12));
+		logger.info(primality(5));
+		logger.info(primality(7));
 	}
 	
 	// Complete the primality function below.
