@@ -107,6 +107,6 @@
 <b>14. Miscellaneous</b>
 
 * [Flipping bits](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/misc/FlippingBits.java)
-* Time Complexity: Primality
+* [Time Complexity: Primality](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/misc/TimeComplexityPrimality.java)
 * Friend Circle Queries
 * [Maximum Xor](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/misc/MaximumXor.java)
