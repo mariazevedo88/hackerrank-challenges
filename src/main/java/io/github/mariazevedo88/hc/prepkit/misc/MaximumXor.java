@@ -1,5 +1,7 @@
 package io.github.mariazevedo88.hc.prepkit.misc;
 
+import java.util.BitSet;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -140,6 +142,7 @@ import org.slf4j.LoggerFactory;
 public class MaximumXor {
 	
 	private static final Logger logger = LoggerFactory.getLogger(MaximumXor.class);
+	public static final int BIT_POS = 32 - 1;
 
 	public static void main(String[] args) {
 		
@@ -162,25 +165,82 @@ public class MaximumXor {
 		}
 	}
 	
+	static class Trie {
+		
+		Trie zero, one;
+	    Integer value;
+
+	    Trie (int value) {
+	    	this.value = value;
+	    }
+	}
+	
 	// Complete the maxXor function below.
     static int[] maxXor(int[] arr, int[] queries) {
         
-        int currentXor, maxXor=0;
+    	//solving as a Trie to get better performance
+    	Trie root = buildTrie(arr);
         int[] result = new int[queries.length];
         
-        for(int i=0; i<queries.length; i++){
-        	for(int j=0; j<arr.length; j++){
-        		currentXor = queries[i]^arr[j];
-        		
-        		if(maxXor < currentXor) {
-        			maxXor = currentXor;
-        		}
-        	}
-          
-        	result[i] = maxXor;
-        	maxXor = 0;
-    	}
+        for (int i = 0; i < queries.length; i++) {
+            int queryElement = queries[i];
+            int arrElement = findElementInArray(queryElement, root);
+            result[i] = arrElement ^ queryElement;
+        }
         
         return result;
     }
+    
+    static int findElementInArray(int queryElement, Trie trieRoot) {
+    	
+    	BitSet bs = BitSet.valueOf(new long[]{queryElement});
+    	Trie currentTrieNode = trieRoot;
+      
+    	for (int bitPos = BIT_POS; bitPos >= 0; bitPos--) {
+          
+    		if (bs.get(bitPos)) {
+    			if (currentTrieNode.zero != null) {
+    				currentTrieNode = currentTrieNode.zero;
+    			}else {
+    				currentTrieNode = currentTrieNode.one;
+    			}
+    		}else {
+    			if (currentTrieNode.one != null) {
+    				currentTrieNode = currentTrieNode.one;
+    			} else {
+    				currentTrieNode = currentTrieNode.zero;
+    			}
+    		}
+    	}
+      
+    	return currentTrieNode.value;
+    }
+
+    static Trie buildTrie(int[] arr) {
+      
+    	Trie trieRoot = new Trie(-1);
+      
+    	for (int a : arr) {
+    		BitSet bs = BitSet.valueOf(new long[]{a});
+    		Trie currentTrieNode = trieRoot;
+          
+    		for (int bitPos = BIT_POS; bitPos >= 0; bitPos--) {
+    			if (bs.get(bitPos)) {
+    				if (currentTrieNode.one == null) {
+    					currentTrieNode.one = new Trie(bitPos);
+    				}
+    				currentTrieNode = currentTrieNode.one;
+    			} else {
+    				if (currentTrieNode.zero == null) {
+    					currentTrieNode.zero = new Trie(bitPos);
+    				}
+    				currentTrieNode = currentTrieNode.zero;
+    			}
+    		}
+          
+    		currentTrieNode.value = a;
+    	}
+	  
+    	return trieRoot;
+  	}
 }
