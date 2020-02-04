@@ -100,7 +100,7 @@
 <b>13. Recursion and Backtracking</b>
 
 * [Recursion: Fibonacci Numbers](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/recursion/FibonacciNumbers.java)
-* Recursion: Davis' Staircase
+* [Recursion: Davis' Staircase](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/recursion/DavisStaircase.java)
 * Crossword Puzzle
 * Recursive Digit Sum
 
