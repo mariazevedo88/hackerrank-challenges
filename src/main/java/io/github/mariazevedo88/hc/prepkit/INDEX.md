@@ -68,7 +68,7 @@
 
 * [Balanced Brackets](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/stacks/BalancedBrackets.java)
 * Queues: A Tale of Two Stacks
-* Largest Rectangle
+* [Largest Rectangle](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/stacks/LargestRectangle.java)
 * Min Max Riddle
 * Castle on the Grid
 * Poisonous Plants
