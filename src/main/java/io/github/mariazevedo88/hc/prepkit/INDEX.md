@@ -101,7 +101,7 @@
 
 * [Recursion: Fibonacci Numbers](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/recursion/FibonacciNumbers.java)
 * [Recursion: Davis' Staircase](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/recursion/DavisStaircase.java)
-* Crossword Puzzle
+* [Crossword Puzzle](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/recursion/CrosswordPuzzle.java)
 * [Recursive Digit Sum](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/recursion/RecursiveDigitSum.java)
 
 <b>14. Miscellaneous</b>
