@@ -29,7 +29,7 @@
 * [Sorting: Bubble Sort](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/BubbleSort.java)
 * [Sorting: Comparator](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/SortingComparator.java)
 * [Fraudulent Activity Notifications](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/FraudulentActivityNotifications.java)
-* Merge sort: Counting Inversions
+* [Merge sort: Counting Inversions](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/sorting/MergeSortCountingInversions.java)
 
 <b>5. String Manipulation</b>
 
