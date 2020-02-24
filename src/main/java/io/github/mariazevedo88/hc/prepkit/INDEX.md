@@ -37,7 +37,7 @@
 * [Alternating Characters](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/strings/AlternatingCharacters.java)
 * [Sherlock and the Valid String](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/strings/SherlockValidString.java)
 * [Special String Again](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/strings/SpecialStringAgain.java)
-* Common Child
+* [Common Child](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/strings/CommonChild.java)
 
 <b>6. Greedy Algorithms</b>
 
