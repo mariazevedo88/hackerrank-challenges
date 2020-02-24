@@ -78,7 +78,7 @@
 * Roads and Libraries
 * Find the nearest clone
 * BFS: Shortest Reach in a Graph
-* DFS: Connected Cell in a Grid
+* [DFS: Connected Cell in a Grid](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/graphs/DFSConnectedCellGrid.java)
 * Matrix
 
 <b>11. Trees</b>
