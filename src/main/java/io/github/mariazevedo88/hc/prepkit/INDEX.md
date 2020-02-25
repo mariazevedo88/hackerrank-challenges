@@ -60,7 +60,7 @@
 <b>8. Dynamic Programming</b>
 
 * [Max Array Sum](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/dynamic/MaxArraySum.java)
-* Abbreviation
+* [Abbreviation](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/dynamic/Abbreviation.java)
 * [Candies](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/dynamic/Candies.java)
 * Decibinary Numbers
 
