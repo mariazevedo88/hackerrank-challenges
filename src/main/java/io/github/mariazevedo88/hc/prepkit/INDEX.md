@@ -61,7 +61,7 @@
 
 * [Max Array Sum](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/dynamic/MaxArraySum.java)
 * Abbreviation
-* Candies
+* [Candies](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/dynamic/Candies.java)
 * Decibinary Numbers
 
 <b>9. Stacks and Queues</b>
