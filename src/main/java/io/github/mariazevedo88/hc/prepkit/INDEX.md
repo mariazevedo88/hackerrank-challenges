@@ -45,7 +45,7 @@
 * [Luck Balance](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/greedy/LuckBalance.java)
 * [Greedy Florist](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/greedy/GreedyFlorist.java)
 * [Max Min](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/greedy/MaxMin.java)
-* Reverse Shuffle Merge
+* [Reverse Shuffle Merge](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/greedy/ReverseShuffleMerge.java)
 
 <b>7. Search</b>
 
