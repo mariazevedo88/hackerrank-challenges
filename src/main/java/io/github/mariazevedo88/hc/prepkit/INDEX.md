@@ -67,7 +67,7 @@
 <b>9. Stacks and Queues</b>
 
 * [Balanced Brackets](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/stacks/BalancedBrackets.java)
-* Queues: A Tale of Two Stacks
+* [Queues: A Tale of Two Stacks](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/stacks/TaleTwoStacks.java)
 * [Largest Rectangle](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/stacks/LargestRectangle.java)
 * [Min Max Riddle](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/stacks/MinMaxRiddle.java)
 * Castle on the Grid
