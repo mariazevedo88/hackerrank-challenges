@@ -52,7 +52,7 @@
 * [Hash Tables: Ice Cream Parlor](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/IceCreamParlor.java)
 * [Swap Nodes [Algo]](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/SwapNodes.java)
 * Pairs
-* Triple sum
+* [Triple sum](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/TripleSum.java)
 * Minimum Time Required
 * Minimum Subarray Sum
 * Making Candies
