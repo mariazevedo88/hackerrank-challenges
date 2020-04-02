@@ -70,7 +70,7 @@
 * [Queues: A Tale of Two Stacks](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/stacks/TaleTwoStacks.java)
 * [Largest Rectangle](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/stacks/LargestRectangle.java)
 * [Min Max Riddle](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/stacks/MinMaxRiddle.java)
-* Castle on the Grid
+* [Castle on the Grid](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/stacks/CastleGrid.java)
 * Poisonous Plants
 
 <b>10. Graphs</b>
