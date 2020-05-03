@@ -260,7 +260,7 @@ public class SwapNodes {
         Node root = new Node(1, 1, null, null);
         Node currentNode = root;
 
-        Queue<Node> nodes = new LinkedList<Node>();
+        Queue<Node> nodes = new LinkedList<>();
         nodes.offer(currentNode);
 
         int index = 0;
