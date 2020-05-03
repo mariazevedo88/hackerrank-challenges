@@ -55,7 +55,7 @@
 * [Triple sum](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/TripleSum.java)
 * [Minimum Time Required](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/MinimumTimeRequired.java)
 * [Maximum Subarray Sum](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/MaximumSubarraySum.java)
-* Making Candies
+* [Making Candies](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/MakingCandies.java)
 
 <b>8. Dynamic Programming</b>
 
