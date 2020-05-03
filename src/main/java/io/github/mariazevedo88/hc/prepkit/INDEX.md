@@ -53,7 +53,7 @@
 * [Swap Nodes [Algo]](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/SwapNodes.java)
 * [Pairs](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/Pairs.java)
 * [Triple sum](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/TripleSum.java)
-* Minimum Time Required
+* [Minimum Time Required](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/MinimumTimeRequired.java)
 * Minimum Subarray Sum
 * Making Candies
 
