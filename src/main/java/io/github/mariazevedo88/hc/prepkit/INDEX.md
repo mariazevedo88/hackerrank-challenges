@@ -54,7 +54,7 @@
 * [Pairs](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/Pairs.java)
 * [Triple sum](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/TripleSum.java)
 * [Minimum Time Required](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/MinimumTimeRequired.java)
-* Minimum Subarray Sum
+* [Maximum Subarray Sum](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/search/MaximumSubarraySum.java)
 * Making Candies
 
 <b>8. Dynamic Programming</b>
