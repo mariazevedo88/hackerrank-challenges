@@ -71,7 +71,7 @@
 * [Largest Rectangle](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/stacks/LargestRectangle.java)
 * [Min Max Riddle](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/stacks/MinMaxRiddle.java)
 * [Castle on the Grid](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/stacks/CastleGrid.java)
-* Poisonous Plants
+* [Poisonous Plants](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/stacks/PoisonousPlants.java)
 
 <b>10. Graphs</b>
 
