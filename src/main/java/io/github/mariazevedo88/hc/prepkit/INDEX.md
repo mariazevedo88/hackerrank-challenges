@@ -87,7 +87,7 @@
 * [Binary Search Tree: Lowest Common Ancestor](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/trees/LowestCommonAncestor.java)
 * [Trees: Is This a Binary Search Tree?](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/trees/BinarySearchTree.java)
 * [Tree: Huffman Decoding](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/trees/HuffmanDecoding.java)
-* Balanced Forest
+* [Balanced Forest](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/trees/BalancedForest.java)
 
 <b>12. Linked Lists</b>
 
