@@ -77,7 +77,7 @@
 
 * [Roads and Libraries](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/graphs/RoadsAndLibraries.java)
 * [Find the nearest clone](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/graphs/FindNearestClone.java)
-* BFS: Shortest Reach in a Graph
+* [BFS: Shortest Reach in a Graph](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/graphs/BFSShortestReachGraph.java)
 * [DFS: Connected Cell in a Grid](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/graphs/DFSConnectedCellGrid.java)
 * Matrix
 
