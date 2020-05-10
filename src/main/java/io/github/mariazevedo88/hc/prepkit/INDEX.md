@@ -79,13 +79,13 @@
 * [Find the nearest clone](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/graphs/FindNearestClone.java)
 * [BFS: Shortest Reach in a Graph](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/graphs/BFSShortestReachGraph.java)
 * [DFS: Connected Cell in a Grid](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/graphs/DFSConnectedCellGrid.java)
-* Matrix
+* [Matrix](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/graphs/Matrix.java)
 
 <b>11. Trees</b>
 
 * [Tree: Height of a Binary Tree](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/trees/HeightBinaryTree.java)
 * [Binary Search Tree: Lowest Common Ancestor](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/trees/LowestCommonAncestor.java)
-* [Trees: Is This a Binary Search Tree?](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/trees/BinarySearchTree.java)
+* [Trees: Is This a Binary Search Tree?](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/trees/IsBinarySearchTree.java)
 * [Tree: Huffman Decoding](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/trees/HuffmanDecoding.java)
 * [Balanced Forest](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/trees/BalancedForest.java)
 

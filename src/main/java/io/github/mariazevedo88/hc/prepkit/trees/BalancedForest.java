@@ -122,7 +122,6 @@ import org.slf4j.LoggerFactory;
  * @author Mariana Azevedo
  * @since 10/05/2020
  */
-
 class BalancedNode {
 
 	int name;

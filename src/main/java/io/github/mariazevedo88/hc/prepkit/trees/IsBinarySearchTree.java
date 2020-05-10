@@ -65,9 +65,9 @@ import org.slf4j.LoggerFactory;
  * @author Mariana Azevedo
  * @since 08/05/2020
  */
-public class BinarySearchTree {
+public class IsBinarySearchTree {
 	
-	private static final Logger logger = LoggerFactory.getLogger(BinarySearchTree.class);
+	private static final Logger logger = LoggerFactory.getLogger(IsBinarySearchTree.class);
 
 	public static void main(String[] args) {
 		Node root = new Node(4);  
@@ -83,10 +83,11 @@ public class BinarySearchTree {
 	    }else {
 	    	logger.info("NO");
 	    }
-	    
 	}
 	
 	static boolean checkBST(Node root) {
+		if (root == null)
+            return true;
         return checkBSTHelper(root, Integer.MIN_VALUE, Integer.MAX_VALUE);
     }
 
