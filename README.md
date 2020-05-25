@@ -10,6 +10,7 @@ A project of solved exercises from Hackerrank website in Java and SQL.
 
 - [Interview Preparation Kit](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/prepkit/INDEX.md)
 - [Problem Solving](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/problems/INDEX.md)
+- [Java Practice](https://github.com/mariazevedo88/hackerrank-challenges/blob/master/src/main/java/io/github/mariazevedo88/hc/java/INDEX.md)
 
 #### SQL Challenges
 
